@@ -1,0 +1,12 @@
+Spaceline          Days Trip type    Price
+==========================================
+Virgin Galactic      42 One-way      $  37
+SpaceX               35 Round-trip   $  80
+Virgin Galactic      34 Round-trip   $  82
+Virgin Galactic      39 Round-trip   $  76
+Space Adventures     23 One-way      $  50
+Virgin Galactic      44 One-way      $  36
+SpaceX               25 Round-trip   $  96
+SpaceX               31 Round-trip   $  86
+Virgin Galactic      31 Round-trip   $  86
+Virgin Galactic      37 One-way      $  39
